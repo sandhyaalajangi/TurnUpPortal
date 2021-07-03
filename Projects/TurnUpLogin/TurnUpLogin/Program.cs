@@ -64,8 +64,6 @@ namespace TurnUpPortal
             IWebElement createBtn = driver.FindElement(By.XPath("//*[@id='container']/p/a"));
             createBtn.Click();
 
-
-
             //Identify drop down list and select Time
             IWebElement material = driver.FindElement(By.XPath("//*[@id='TimeMaterialEditForm']/div/div[1]/div/span[1]/span/span[1]"));
             material.Click();
@@ -90,13 +88,11 @@ namespace TurnUpPortal
             price.SendKeys("50");
             
 
-
             //Identify save and click and save
             IWebElement saveBtn = driver.FindElement(By.Id("SaveButton"));
             saveBtn.Click();
             Thread.Sleep(2000);
             
-
 
             //Identify go to last page and click
 
@@ -118,8 +114,6 @@ namespace TurnUpPortal
             }
 
             Thread.Sleep(2000);
-
-
 
 
 
