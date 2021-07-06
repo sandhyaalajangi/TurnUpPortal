@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{68E3F4AF-FED3-4B86-90E9-176658342912}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TurnUpLogin/Utilities/Wait.cs">
+    <Files>
+      <File FileName="TurnUpLogin/Program.cs" Line="35" Column="2" />
+      <File FileName="TurnUpLogin/loginPage.cs" Line="12" Column="10" />
+      <File FileName="TurnUpLogin/HomePage.cs" Line="1" Column="1" />
+      <File FileName="TurnUpLogin/TMPage.cs" Line="16" Column="34" />
+      <File FileName="TurnUpLogin/Utilities/Wait.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TurnUpLogin" expanded="True">
+            <Node name="TurnUpLogin" expanded="True">
+              <Node name="Pages" expanded="True" />
+              <Node name="Utilities" expanded="True">
+                <Node name="Wait.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TurnUpLogin PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,17 @@
+/Users/preetikadian/Projects/TurnUpLogin/TurnUpLogin/obj/Debug/netcoreapp3.1/TurnUpLogin.csproj.AssemblyReference.cache
+/Users/preetikadian/Projects/TurnUpLogin/TurnUpLogin/obj/Debug/netcoreapp3.1/TurnUpLogin.AssemblyInfoInputs.cache
+/Users/preetikadian/Projects/TurnUpLogin/TurnUpLogin/obj/Debug/netcoreapp3.1/TurnUpLogin.AssemblyInfo.cs
+/Users/preetikadian/Projects/TurnUpLogin/TurnUpLogin/obj/Debug/netcoreapp3.1/TurnUpLogin.csproj.CoreCompileInputs.cache
+/Users/preetikadian/Projects/TurnUpLogin/TurnUpLogin/bin/Debug/netcoreapp3.1/TurnUpLogin.deps.json
+/Users/preetikadian/Projects/TurnUpLogin/TurnUpLogin/bin/Debug/netcoreapp3.1/TurnUpLogin.runtimeconfig.json
+/Users/preetikadian/Projects/TurnUpLogin/TurnUpLogin/bin/Debug/netcoreapp3.1/TurnUpLogin.runtimeconfig.dev.json
+/Users/preetikadian/Projects/TurnUpLogin/TurnUpLogin/bin/Debug/netcoreapp3.1/TurnUpLogin.dll
+/Users/preetikadian/Projects/TurnUpLogin/TurnUpLogin/bin/Debug/netcoreapp3.1/TurnUpLogin.pdb
+/Users/preetikadian/Projects/TurnUpLogin/TurnUpLogin/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/preetikadian/Projects/TurnUpLogin/TurnUpLogin/bin/Debug/netcoreapp3.1/WebDriver.Support.dll
+/Users/preetikadian/Projects/TurnUpLogin/TurnUpLogin/bin/Debug/netcoreapp3.1/WebDriver.dll
+/Users/preetikadian/Projects/TurnUpLogin/TurnUpLogin/obj/Debug/netcoreapp3.1/TurnUpLogin.csproj.CopyComplete
+/Users/preetikadian/Projects/TurnUpLogin/TurnUpLogin/obj/Debug/netcoreapp3.1/TurnUpLogin.dll
+/Users/preetikadian/Projects/TurnUpLogin/TurnUpLogin/obj/Debug/netcoreapp3.1/TurnUpLogin.pdb
+/Users/preetikadian/Projects/TurnUpLogin/TurnUpLogin/obj/Debug/netcoreapp3.1/TurnUpLogin.genruntimeconfig.cache
+/Users/preetikadian/Projects/TurnUpLogin/TurnUpLogin/bin/Debug/netcoreapp3.1/SeleniumExtras.WaitHelpers.dll
