@@ -1,0 +1,151 @@
+{
+	"info": {
+		"_postman_id": "b51ebd15-40c7-4f40-9254-b7baca616598",
+		"name": "IC_july2021",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get All Billing Records",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://api.qaauto.co.nz/api/v1/billingOrders",
+					"protocol": "http",
+					"host": [
+						"api",
+						"qaauto",
+						"co",
+						"nz"
+					],
+					"path": [
+						"api",
+						"v1",
+						"billingOrders"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Post Billing  Orders",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"id\":6,\r\n  \"FirstName\": \"san14\",\r\n  \"LastName\": \"k\",\r\n  \"Email\": \"kefjhgjh.a@gmail.com\",\r\n  \"AddressLine1\": \"16\",\r\n  \"AddressLine2\": \"1g\",\r\n  \"PhoneNumber\": \"125459672\",\r\n  \"Comment\": \" testcase\",\r\n  \"ZipCode\": \"3527\"\r\n}\r\n",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://api.qaauto.co.nz/api/v1/billingOrders",
+					"protocol": "http",
+					"host": [
+						"api",
+						"qaauto",
+						"co",
+						"nz"
+					],
+					"path": [
+						"api",
+						"v1",
+						"billingOrders"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Read specify billing order",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "http://api.qaauto.co.nz/api/v1/billingOrders/569",
+					"protocol": "http",
+					"host": [
+						"api",
+						"qaauto",
+						"co",
+						"nz"
+					],
+					"path": [
+						"api",
+						"v1",
+						"billingOrders",
+						"569"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://api.qaauto.co.nz/api/v1/billingOrders/566",
+					"protocol": "http",
+					"host": [
+						"api",
+						"qaauto",
+						"co",
+						"nz"
+					],
+					"path": [
+						"api",
+						"v1",
+						"billingOrders",
+						"566"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
